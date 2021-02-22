@@ -1,9 +1,9 @@
 main:
+  - title: "Home"
+    url: /
   - title: "About"
-    url: /posts/
+    url: /about/
   - title: "Research Studies"
     url: /categories/
   - title: "News"
-    url: /tags/
-  - title: "Team"
-    url: /about/
+    url: /posts/
