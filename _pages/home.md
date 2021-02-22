@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Home"
+layout: home
 header:
   image: /assets/images/hero-default.jpg
 ---
