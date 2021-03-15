@@ -24,3 +24,4 @@ collections:
   projects:
     output: true
     show_status: true
+theme: jekyll-theme-cayman
