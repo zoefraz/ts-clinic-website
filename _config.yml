@@ -8,6 +8,7 @@ url: https://rsz-translational-neuroscience-center.github.io/ts-clinic-website/
 url_members: members.html
 url_about: about.html
 url_articles: articles.html
+url_resources: resources.html
 
 theme_remote: RSZ-Translational-Neuroscience-Center/ts-clinic-website
 
@@ -16,9 +17,6 @@ collections:
     output: true
     show_status: true
   leadership:
-    output: true
-    show_status: true
-  projects:
     output: true
     show_status: true
 theme: jekyll-theme-cayman
