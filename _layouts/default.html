@@ -36,24 +36,25 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %} -->
-      <div class="main-content"></div>
-        <ul class="nav justify-content-center">
-          <li class="nav-item">
-            <a class="nav-link active" href="{{ site.url }}{{ site.url_team }}">Team</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" href="{{ site.url }}{{ site.url_resources }}">Resources</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" href="https://rsz-translational-neuroscience-center.github.io/tsc-study-website/">Research Studies</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" href="{{ site.url }}{{ site.url_articles }}">News</a>
-          </li>
-        </ul>
-      </div>
-    </header>
 
+    </header>
+    <div class="main-content"></div>
+    <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <a class="nav-link active" href="{{ site.url }}{{ site.url_team }}">Team</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link active" href="{{ site.url }}{{ site.url_resources }}">Resources</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link active"
+          href="https://rsz-translational-neuroscience-center.github.io/tsc-study-website/">Research Studies</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link active" href="{{ site.url }}{{ site.url_articles }}">News</a>
+      </li>
+    </ul>
+    </div>
     <main id="content" class="main-content" role="main">
       {{ content }}
 
