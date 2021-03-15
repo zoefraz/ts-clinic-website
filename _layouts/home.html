@@ -1,10 +1,3 @@
-{% assign member_count_array = "" | split: ',' %}
-{% for item in site.members %}
-  {% if item.show_status != false %}
-    {% assign member_count_array = member_count_array | push: title %}
-  {% endif %}
-{% endfor %}
-
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
@@ -13,16 +6,10 @@
 <body>
   {% include header-tall.html %}
 
-  <main id="content" class="container-fluid p-0 m-0" role="main">
-    <div>
-      <section class="section-md bg-white pb-1 text-dark">
-        Something
-      </section>
-    </div>
-
-
+  <main id="content" class="container" role="main">
+    {{ content }}
     {% include footer.html %}
   </main>
-</body>
+  </body>
 
-</html>
+  </html>
