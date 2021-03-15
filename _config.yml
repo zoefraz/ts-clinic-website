@@ -12,9 +12,6 @@ url_articles: articles.html
 theme_remote: RSZ-Translational-Neuroscience-Center/ts-clinic-website
 
 collections:
-  members:
-    output: true
-    show_status: true
   articles:
     output: true
     show_status: true
