@@ -1,1 +1,22 @@
+title: Multi-Disciplinary Tuberous Sclerosis Clinic at Boston Children's Hospital
+google_analytics:
+text_footer: The Multi-Disciplinary Tuberous Sclerosis Program at Boston Children's Hospital was started with the belief that children with Tuberous Sclerosis Complex (TSC) can benefit from care that is specially tailored to their needs. Even though the problems with the brain, heart, kidney and other organs seen in TSC are also found in other diseases, their diagnosis and treatment may be specific to TSC..
+
+seo_default_desc: The Multi-Disciplinary Tuberous Sclerosis Program at Boston Children's Hospital was started with the belief that children with Tuberous Sclerosis Complex (TSC) can benefit from care that is specially tailored to their needs. Even though the problems with the brain, heart, kidney and other organs seen in TSC are also found in other diseases, their diagnosis and treatment may be specific to TSC..
+
+url: https://rsz-translational-neuroscience-center.github.io/ts-clinic-website/
+url_members: members.html
+url_about: about.html
+url_articles: articles.html
+url_resources: resources.html
+
+theme_remote: RSZ-Translational-Neuroscience-Center/ts-clinic-website
+
+collections:
+  articles:
+    output: true
+    show_status: true
+  leadership:
+    output: true
+    show_status: true
 theme: jekyll-theme-cayman
