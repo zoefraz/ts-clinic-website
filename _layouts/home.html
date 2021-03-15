@@ -1,24 +1,28 @@
----
-layout: archive
-header:
-  image: /assets/images/hero-default.jpg
----
+{% assign member_count_array = "" | split: ',' %}
+{% for item in site.members %}
+  {% if item.show_status != false %}
+    {% assign member_count_array = member_count_array | push: title %}
+  {% endif %}
+{% endfor %}
 
-{{ content }}
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+{% include head.html %}
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
+<body>
+  {% include header-tall.html %}
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
+  <main id="content" class="container-fluid p-0 m-0" role="main">
+    <div>
+      <section class="section-md bg-white pb-1 text-dark">
+        Something
+      </section>
+    </div>
 
-{% include paginator.html %}
+
+    {% include footer.html %}
+  </main>
+</body>
+
+</html>

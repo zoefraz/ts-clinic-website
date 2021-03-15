@@ -1,21 +1,35 @@
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
+<footer class="site-footer" class="accent p-4 mt-5 mb-4 small">
+    <div class="container">
+        <div class="row justify-content-sm-center justify-content-lg-start row-md-60 text-left">
 
-    {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
+            <div class="col-sm-12 col-md-3 col-lg-3">
+                <div class="footer-contact-info">
+                    <a href="{{ site.url }}">
+                        <img class="img-fluid" src="{{ site.url }}assets/logo-standard.jpg" alt="{{ site.title }}">
+                    </a>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-9">
+                <div class="footer-contact-info text-muted text-sm small ">
+                    <p>The Multi-Disciplinary Tuberous Sclerosis Program at Boston Children's Hospital was started with the belief that
+                    children with Tuberous Sclerosis Complex (TSC) can benefit from care that is specially tailored to their needs. Even
+                    though the problems with the brain, heart, kidney and other organs seen in TSC are also found in other diseases, their
+                    diagnosis and treatment may be specific to TSC.</p>
+                </div>
+            </div>
+            <div class="col-sm-12 mb-4">
 
-    {% unless site.atom_feed.hide %}
-      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    {% endunless %}
-  </ul>
-</div>
-
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+                <div class="row mt-2 small">
+                    <div class="col-sm-6 text-muted text-sm ">
+                        <a href="{{ site.url }}" class="text-sm text-muted">
+                            &copy; 2021 The Multi-Disciplinary Tuberous Sclerosis Program at Boston Children's Hospital - All rights reserved.
+                        </a>
+                    </div>
+                    <div class="col-sm-6 text-muted text-right">
+                        <a href="{{ site.url }}privacy.html" class="text-sm text-muted">Website Privacy Policy</a> |
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
