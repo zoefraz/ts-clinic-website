@@ -16,6 +16,9 @@ collections:
   resources:
     output: true
     show_status: true
+  ctas:
+    output: true
+    show_status: true
   articles:
     output: true
     show_status: true
