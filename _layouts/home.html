@@ -7,10 +7,10 @@
     {% include header.html %}
 
      {% include hero_lg.html %}
-    <main id="content" class="main-content" role="main">
+    <main id="content" class="main-content " role="main">
 
 
-      <h2>{{ page.intro_headline }}</h2>
+      <h1>{{ page.intro_headline }}</h1>
       {{ page.intro_text }}
 
       {% assign sorted_items = site.ctas %}
@@ -18,7 +18,7 @@
       {% for item in sorted_items %}
       {% if item.show_status != false %}
 
-      <hr class="my-4" />
+      <hr class="my-8" />
 
       <div class="row featurette my-4 d-flex align-items-center">
         <div class="col-md-7">
@@ -38,7 +38,7 @@
       {% endif %}
       {% endfor %}
 
-      <hr class="my-4" />
+      <hr class="my-6" />
 
       <!-- <div class="row">
         <div class="col-md-4">
