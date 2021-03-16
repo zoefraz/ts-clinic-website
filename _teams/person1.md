@@ -9,7 +9,7 @@ title: Sample Person
 position: Position
 
 # Public proffile/bio URL
-profile_url:
+profile_url: http://www.google.com
 
 # The sort order. Recommended by last name but can be change as needed
 sort: 1
