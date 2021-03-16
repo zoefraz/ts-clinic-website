@@ -4,7 +4,7 @@ title: "Resources"
 description: "We are a team of physicians dedicated to treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders. We hope that you will find this website informative and helpful."
 
 hero_title: "TS Resources"
-hero_text: "We are a team of physicians dedicated to treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders. We hope that you will find this website informative and helpful."
+hero_text: "Resources for Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders."
 
 ---
 

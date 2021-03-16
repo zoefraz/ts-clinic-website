@@ -5,7 +5,7 @@ title: "Multi-Disciplinary Tuberous Sclerosis Clinic at Boston Children's Hospit
 description: "We are a team of physicians dedicated to treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders. We hope that you will find this website informative and helpful."
 
 hero_title: "Multi-Disciplinary Tuberous Sclerosis Clinic at Boston Children's Hospital"
-hero_text: "We are a team of physicians dedicated to treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders. We hope that you will find this website informative and helpful."
+hero_text: "We are a team of physicians dedicated to treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders."
 
 # Home Page Intro Text Above CTAs
 intro_headline: "Welcome"
