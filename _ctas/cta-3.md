@@ -3,13 +3,13 @@
 layout: cta
 
 # Name of resource
-headline: Our Mission & Research
+headline: Our Team
 
 # link/button text
-link_text:
+link_text: Meet Our Team
 
 # link or website
-link_url:
+link_url: team.html
 
 # link or website
 picture: cta3.jpg

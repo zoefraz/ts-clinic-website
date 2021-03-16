@@ -3,19 +3,19 @@
 layout: cta
 
 # Name of resource
-headline: Lorem ipsum dolor sit amet (1)
+headline: Schedule An Appointment
 
 # link/button text
-link_text:
+link_text: Schedule An Appointment
 
 # link or website
-link_url:
+link_url: https://www.childrenshospital.org
 
 # link or website
 picture: cta1.jpg
 
 # Short summary of the resource
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod, mauris ut mattis consectetur, eros urna fringilla tellus, at egestas purus ligula eget purus."
+summary: "If you would like to make an appointment with our program, please contact the Boston Children's Hospital scheduling center and mention the TS Clinic."
 
 # What order
 sort: 1

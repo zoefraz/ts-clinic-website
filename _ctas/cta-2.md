@@ -3,19 +3,19 @@
 layout: cta
 
 # Name of resource
-headline: Schedule An Appointment
+headline: Resources
 
 # link/button text
-link_text: Schedule An Appointment
+link_text: Helpful Resources
 
 # link or website
-link_url: https://www.childrenshospital.org
+link_url: resources.html
 
 # link or website
-picture: cta3.jpg
+picture: cta2.jpg
 
 # Short summary of the resource
-summary: "If you would like to make an appointment with our program, please contact the Boston Children's Hospital scheduling center and mention the TS Clinic."
+summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod, mauris ut mattis consectetur, eros urna fringilla tellus, at egestas purus ligula eget purus."
 
 # What order
 sort: 1
