@@ -9,8 +9,9 @@
      {% include hero_lg.html %}
     <main id="content" class="main-content" role="main">
 
-      <h2>{{ intro_headline }}</h2>
-      {{ intro_text }}
+
+      <h2>{{ page.intro_headline }}</h2>
+      {{ page.intro_text }}
 
       {% assign sorted_items = site.ctas %}
 
