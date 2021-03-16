@@ -18,13 +18,13 @@
     {% if item.show_status != false %}
     <div class="mb-4 row">
       <div class="col-12">
-        <h2 class="mt-0 pt-0">{{ item.title }}</h2>
+        <h3 class="mt-0 pt-0">{{ item.title }}</h3>
         {{ item.summary }}
 
         {% if item.website %}
         <div class="mt-1">
-          <a href="{{ item.website }}" title="{{ item.title }}"><i class="fas fa-external-link-alt"></i> {{ item.website
-            }}</a>
+          <a href="{{ item.website }}" title="{{ item.title }}">{{ item.website
+            }} <i class="fas fa-external-link-alt"></i></a>
         </div>
         {% endif %}
       </div>
