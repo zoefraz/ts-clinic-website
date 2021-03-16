@@ -14,7 +14,7 @@ summary: A great family guide for activities in the Boston area for out of state
 # What order
 sort: 1
 
-# Show this entry as a page
+# Show this entry on the page
 show_status: true
 
 # Content can be added but not required.  At the moment this will only show on the home page area.
