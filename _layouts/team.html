@@ -14,17 +14,16 @@
         {{ content }}
       </div>
       <div class="col-md-5  offset-md-1">
-        hello
         {% assign sorted_items = site.teams %}
 
         {% for item in sorted_items %}
         {% if item.show_status != false %}
         <div class="mb-4 pb-4 row">
-          <div class="col-1">
+          <div class="col-1 mr-0 pr-1">
             <i class="fas fa-user text-primary"></i>
           </div>
           <div class="col-11">
-            <h4 class="mt-0 pt-0">{{ item.title }}</h4>
+            <h4 class="mt-1 pt-0">{{ item.title }}</h4>
             {{ item.summary }}
 
             {% if item.website %}
@@ -34,6 +33,7 @@
             </div>
             {% endif %}
           </div>
+        <hr />
         </div>
         {% endif %}
         {% endfor %}
