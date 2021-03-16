@@ -4,7 +4,7 @@ layout: articles
 # The page title
 title: News & Articles
 
-hero_title: "Multi-Disciplinary Tuberous Sclerosis Clinic at Boston Children's Hospital"
+hero_title: "TS Clinic News & Articles"
 hero_text: "We are a team of physicians dedicated to treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders. We hope that you will find this website informative and helpful."
 
 

@@ -2,7 +2,7 @@
 title: "What Is TSC"
 description: "Tuberous Sclerosis Complex (also commonly referred to as tuberous sclerosis or TS) is a genetic condition that affects many organs and can cause tumors in the skin, kidney, brain, heart, eyes, lungs and other organs. The severity of TSC can range from mild, such as skin abnormalities, to severe, such as seizures, mental retardation or renal failure. TSC affects approximately 50,000 people in the United States and one million worldwide, with an estimated incidence of 1 in 6,000 live births."
 
-hero_title: "Multi-Disciplinary Tuberous Sclerosis Clinic at Boston Children's Hospital"
+hero_title: "What Is Tuberous Sclerosis
 hero_text: "We are a team of physicians dedicated to treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders. We hope that you will find this website informative and helpful."
 
 ---
