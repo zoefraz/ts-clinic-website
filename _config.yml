@@ -12,10 +12,13 @@ url_resources: resources.html
 theme_remote: RSZ-Translational-Neuroscience-Center/ts-clinic-website
 
 collections:
+  resources:
+    output: true
+    show_status: true
   articles:
     output: true
     show_status: true
-  leadership:
+  team:
     output: true
     show_status: true
 theme: jekyll-theme-cayman

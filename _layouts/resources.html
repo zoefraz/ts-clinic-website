@@ -1,17 +1,45 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  {% include head.html %}
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+<html lang="{{ site.lang | default: " en-US" }}">
+{% include head.html %}
 
-    {% include header.html %}
-    {% include navigation.html %}
+<body>
+  <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
+  {% include header.html %}
+  {% include navigation.html %}
 
+  <main id="content" class="main-content" role="main">
+    {{ content }}
+
+    <hr />
+
+    {% assign sorted_items = site.resources %}
+    {% for item in sorted_items %}
+    {% if item.show_status != false %}
+    <div class="mb-4 pt-4 pb-4 row">
+      <div class="col-12">
+        <div class="col-sm-2 float-right d-none  d-lg-block d-xl-block">
+          <img src="{{ site.url }}assets/icon-doc.png" alt="Icon - {{ item.title }}" class="img-fluid" />
+        </div>
+        <h2 class="mt-0 pt-0">{{ item.title }}</h2>
+        {{ item.summary }}
+
+        {% if item.website %}
+        <div class="mt-1">
+          <a href="{{ item.website }}" title="{{ item.title }}"><i class="fas fa-external-link-alt"></i> {{ item.website
+            }}</a>
+        </div>
+        {% endif %}
+      </div>
+      <div class="col-12  mt-3 mb-0">
+        <hr>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
 
     {% include footer.html %}
-    </main>
-  </body>
+  </main>
+</body>
+
 </html>
