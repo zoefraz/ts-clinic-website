@@ -9,10 +9,14 @@
      {% include hero_lg.html %}
     <main id="content" class="main-content" role="main">
 
+      <h2>{{ intro_headline }}</h2>
+      {{ intro_text }}
+
       {% assign sorted_items = site.ctas %}
 
       {% for item in sorted_items %}
       {% if item.show_status != false %}
+      <hr class="my-4" />
       <div class="row featurette my-4 d-flex align-items-center">
         <div class="col-md-7">
           <h2 class="featurette-heading">{{ item.headline }}</h2>
@@ -28,9 +32,10 @@
           <img src="{{ site.url }}assets/{{ item.picture }}" class="img-responsive" />
         </div>
       </div>
-      <hr class="my-4" />
       {% endif %}
       {% endfor %}
+
+      <hr class="my-4" />
 
       <!-- <div class="row">
         <div class="col-md-4">
@@ -90,6 +95,7 @@
 
       </div>
       <hr /> -->
+
       {{ content }}
 
 
