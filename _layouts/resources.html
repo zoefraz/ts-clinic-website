@@ -16,7 +16,7 @@
     {% assign sorted_items = site.resources %}
     {% for item in sorted_items %}
     {% if item.show_status != false %}
-    <div class="mb-4 pt-4 pb-4 row">
+    <div class="mb-4 row">
       <div class="col-12">
         <h2 class="mt-0 pt-0">{{ item.title }}</h2>
         {{ item.summary }}
