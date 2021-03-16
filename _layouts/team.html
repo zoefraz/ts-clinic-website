@@ -1,17 +1,43 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  {% include head.html %}
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+<html lang="{{ site.lang | default: " en-US" }}">
+{% include head.html %}
 
-    {% include header.html %}
-      {% include hero_sm.html %}
+<body>
+  <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
+  {% include header.html %}
+  {% include hero_sm.html %}
+  <main id="content" class="main-content" role="main">
 
+    <div class="row">
+      <div class="col-md-6">
+        {{ content }}
+      </div>
+      <div class="col-md-6">
+        {% assign sorted_items = site.teams %}
+
+        {% for item in sorted_items %}
+        {% if item.show_status != false %}
+        <div class="mb-4 pb-4 row">
+          <div class="col-12">
+            <h2 class="mt-0 pt-0">{{ item.title }}</h2>
+            {{ item.summary }}
+
+            {% if item.website %}
+            <div class="mt-1">
+              <a href="{{ item.website }}" title="{{ item.title }}">{{ item.website }} <i
+                  class="fas fa-external-link-alt"></i></a>
+            </div>
+            {% endif %}
+          </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
 
     {% include footer.html %}
-    </main>
-  </body>
+  </main>
+</body>
+
 </html>

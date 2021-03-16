@@ -1,14 +1,19 @@
 ---
 # What layout to use (though not currently used)
-layout: leadership
+layout: team
 # Name of the person
+
 title: Sample Person
 # Optional GennCC Position/Title
+
 position: Position
-# Name of organization affiliated with
-organization: Organization
+
+# Public proffile/bio URL
+profile_url:
+
 # The sort order. Recommended by last name but can be change as needed
 sort: 1
+
 # Show this entry as a page
 show_status: true
 
