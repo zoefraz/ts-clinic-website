@@ -18,7 +18,7 @@
       {% for item in sorted_items %}
       {% if item.show_status != false %}
 
-      <hr class="my-8" />
+      <hr class="my-4" />
 
       <div class="row featurette my-4 d-flex align-items-center">
         <div class="col-md-7">
@@ -26,8 +26,7 @@
           <p class="lead">{{ item.summary }}</p>
           {% if item.link_url %}
           <div class="mt-1">
-            <a href="{{ item.link_url }}" title="{{ item.headline }}"><i class="fas fa-external-link-alt"></i> {{ item.link_text
-              }}</a>
+            <a href="{{ item.link_url }}" title="{{ item.headline }}">{{ item.link_text }} <i class="fas fa-external-link-alt"></i></a>
           </div>
           {% endif %}
         </div>
@@ -38,7 +37,7 @@
       {% endif %}
       {% endfor %}
 
-      <hr class="my-6" />
+      <hr class="my-4" />
 
       <!-- <div class="row">
         <div class="col-md-4">
