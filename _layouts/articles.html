@@ -16,20 +16,17 @@
 
       {% for item in sorted_items %}
       {% if item.show_status != false %}
-      <div class="mb-4 pt-4 pb-4 row">
+      <div class="mb-4 row">
         <div class="col-12">
           <h2 class="mt-0 pt-0">{{ item.title }}</h2>
           {{ item.summary }}
 
           {% if item.website %}
           <div class="mt-1">
-            <a href="{{ item.website }}" title="{{ item.title }}"><i
-                class="fas fa-external-link-alt"></i> {{ item.website }}</a>
+            <a href="{{ item.website }}" title="{{ item.title }}"><i class="fas fa-external-link-alt"></i> {{ item.website
+              }}</a>
           </div>
           {% endif %}
-        </div>
-        <div class="col-12  mt-3 mb-0">
-          <hr>
         </div>
       </div>
       {% endif %}
