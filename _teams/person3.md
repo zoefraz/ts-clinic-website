@@ -3,7 +3,7 @@
 layout: team
 # Name of the person
 
-title: Sample Person
+name: Sample Person
 # Optional GennCC Position/Title
 
 position: Position
