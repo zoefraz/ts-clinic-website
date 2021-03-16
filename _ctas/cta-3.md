@@ -3,7 +3,7 @@
 layout: cta
 
 # Name of resource
-headline: Lorem ipsum dolor sit amet (3)
+headline: Our Mission & Research
 
 # link/button text
 link_text:

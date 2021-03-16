@@ -3,7 +3,7 @@
 layout: cta
 
 # Name of resource
-headline: Lorem ipsum dolor sit amet (2)
+headline: Schedule An Appointment
 
 # link/button text
 link_text:
@@ -12,10 +12,10 @@ link_text:
 link_url:
 
 # link or website
-picture: cta2.jpg
+picture: cta3.jpg
 
 # Short summary of the resource
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod, mauris ut mattis consectetur, eros urna fringilla tellus, at egestas purus ligula eget purus."
+summary: "If you would like to make an appointment with our Program, please call Juliana Araujo at 617-355-2711."
 
 # What order
 sort: 1

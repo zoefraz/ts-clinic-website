@@ -9,11 +9,9 @@ hero_text: "We are a team of physicians dedicated to treating all aspects of Tub
 
 # Home Page Intro Text Above CTAs
 intro_headline: "Welcome"
-intro_text: "We are a team of physicians dedicated to treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders. We hope that you will find this website informative and helpful."
+intro_text: "Thank you for visiting the Multi-Disciplinary Tuberous Sclerosis Clinic at Boston Children's Hospital. We are a team of physicians dedicated to treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders. We hope that you will find this website informative and helpful. "
 
 ---
-
-Thank you for visiting the Multi-Disciplinary Tuberous Sclerosis Clinic at Boston Children's Hospital. We are a team of physicians dedicated to treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders. We hope that you will find this website informative and helpful. If you would like to make an appointment with our Program, please call Juliana Araujo at 617-355-2711.
 
 ## About The Multi-Disciplinary Tuberous Sclerosis Program
 The Multi-Disciplinary Tuberous Sclerosis Program at Boston Children's Hospital was started with the belief that children with Tuberous Sclerosis Complex (TSC) can benefit from care that is specially tailored to their needs. Even though the problems with the brain, heart, kidney and other organs seen in TSC are also found in other diseases, their diagnosis and treatment may be specific to TSC.
