@@ -11,6 +11,9 @@ link_text:
 # link or website
 link_url:
 
+# link or website
+picture: cta3.jpg
+
 # Short summary of the resource
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod, mauris ut mattis consectetur, eros urna fringilla tellus, at egestas purus ligula eget purus."
 

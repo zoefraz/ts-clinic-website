@@ -8,7 +8,31 @@
 
      {% include hero_lg.html %}
     <main id="content" class="main-content" role="main">
-      <div class="row">
+
+      {% assign sorted_items = site.ctas %}
+
+      {% for item in sorted_items %}
+      {% if item.show_status != false %}
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">{{ item.headline }}</h2>
+          <p class="lead">{{ item.summary }}</p>
+          {% if item.link_url %}
+          <div class="mt-1">
+            <a href="{{ item.link_url }}" title="{{ item.headline }}"><i class="fas fa-external-link-alt"></i> {{ item.link_text
+              }}</a>
+          </div>
+          {% endif %}
+        </div>
+        <div class="col-md-5">
+          <img src="{{ site.url }}assets/{{ item.picture }}" class="img-responsive" />
+        </div>
+      </div>
+
+      {% endif %}
+      {% endfor %}
+
+      <!-- <div class="row">
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
             <svg class="bd-placeholder-img card-img-top" width="100%" height="125" xmlns="http://www.w3.org/2000/svg"
@@ -65,7 +89,7 @@
         </div>
 
       </div>
-      <hr />
+      <hr /> -->
       {{ content }}
 
 
