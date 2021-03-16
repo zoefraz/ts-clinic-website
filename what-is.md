@@ -2,7 +2,7 @@
 title: "What Is TSC"
 description: "Tuberous Sclerosis Complex (also commonly referred to as tuberous sclerosis or TS) is a genetic condition that affects many organs and can cause tumors in the skin, kidney, brain, heart, eyes, lungs and other organs. The severity of TSC can range from mild, such as skin abnormalities, to severe, such as seizures, mental retardation or renal failure. TSC affects approximately 50,000 people in the United States and one million worldwide, with an estimated incidence of 1 in 6,000 live births."
 
-hero_title: "What Is Tuberous Sclerosis"
+hero_title: "What Is Tuberous Sclerosis Complex?"
 hero_text:
 
 ---
@@ -10,11 +10,11 @@ hero_text:
 ## What is Tuberous Sclerosis (TSC)?
 Tuberous Sclerosis Complex (also commonly referred to as tuberous sclerosis or TS) is a genetic condition that affects many organs and can cause tumors in the skin, kidney, brain, heart, eyes, lungs and other organs. The severity of TSC can range from mild, such as skin abnormalities, to severe, such as seizures, mental retardation or renal failure. TSC affects approximately 50,000 people in the United States and one million worldwide, with an estimated incidence of 1 in 6,000 live births.
 
-## What are the symptoms of TSC?
+## What are the symptoms?
 
 The most common symptoms of TSC are seizures and developmental delay as well as benign tumors and lesions which can affect virtually every organ system of the body including the brain, kidneys, heart, lungs, eyes, skin, and other organs. In many instances, symptoms of TSC will be apparent in the first six months of life.
 
-## Brain and Neurological Function:
+### Brain and Neurological Function:
 In 95% of individuals with TSC, the brain is somehow affected. This usually takes the form of cortical tubers, subependymal nodules and subependymal giant cell astrocytomas, which can be detected by brain imaging.
 
 Epilepsy is by far the most common medical condition in TSC, occurring in 80-90% of individuals. In about one third of individuals with TSC, epilepsy starts out as infantile spasms. Peak onset occurs at about 4-6 months of age.
