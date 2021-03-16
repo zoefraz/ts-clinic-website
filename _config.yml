@@ -22,7 +22,7 @@ collections:
   articles:
     output: true
     show_status: true
-  team:
+  teams:
     output: true
     show_status: true
 theme: jekyll-theme-cayman
