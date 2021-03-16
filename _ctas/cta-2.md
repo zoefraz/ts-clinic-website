@@ -6,16 +6,16 @@ layout: cta
 headline: Schedule An Appointment
 
 # link/button text
-link_text:
+link_text: Schedule An Appointment
 
 # link or website
-link_url:
+link_url: https://www.childrenshospital.org
 
 # link or website
 picture: cta3.jpg
 
 # Short summary of the resource
-summary: "If you would like to make an appointment with our Program, please call Juliana Araujo at 617-355-2711."
+summary: "If you would like to make an appointment with our program, please contact the Boston Children's Hospital scheduling center and mention the TS Clinic."
 
 # What order
 sort: 1
