@@ -8,6 +8,7 @@
 @import "rouge-github";
 @import "variables-brand";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+@import "branding";
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -27,19 +28,6 @@
   }
 }
 
-.hero-grid {
-  background-image: url("https://rsz-translational-neuroscience-center.github.io/ts-clinic-website/assets/header-banner.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.container-trans-bg {
-  background-color: rgba(255,255,255,0.5);
-  border: 3px #fff solid;
-  padding: 1rem;
-  display: inline-block;
-  color: #000 !important;
-}
 
 
 * {
