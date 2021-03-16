@@ -23,12 +23,12 @@
             <i class="fas fa-user text-primary p-0 m-0"></i>
           </div>
           <div class="col-11">
-            <h4 class="p-0 m-0 ">{{ item.title }}</h4>
+            <h4 class="p-0 m-0 ">{{ item.name }}</h4>
             <small>{{ item.position }}</small>
 
             {% if item.profile_url %}
             <div class="mt-0">
-              <a href="{{ item.profile_url }}" target="_blank" title="{{ item.title }}"><small>Profile <small></small><i
+              <a href="{{ item.profile_url }}" target="_blank" title="{{ item.name }}"><small>Profile <small></small><i
                   class="fas fa-external-link-alt"></i></small></small></a>
             </div>
             {% endif %}
