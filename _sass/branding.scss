@@ -12,6 +12,10 @@
   border-radius: .3rem;
 }
 
+.jumbotron.jumbotron-small {
+  padding: 50% 20%;
+}
+
 .container-trans-bg {
   // background-color: rgba(255,255,255,0.5);
   background-color: #fff;
@@ -21,6 +25,11 @@
   margin: 2rem 15%;
   display: inline-block;
   color: #000 !important;
+}
+
+.container-trans-bg.hero-small {
+  padding: 1rem;
+  margin: 0 15%;
 }
 
 header nav bg-light {
