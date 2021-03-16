@@ -3,13 +3,16 @@
 layout: team
 # Name of the person
 
-name: Sample Person 1
+name: Mustafa Sahin, MD, PhD
 # Optional GennCC Position/Title
 
-position: Position
+position: Director, Multi-Disciplinary Tuberous Sclerosis Program Neurology
 
 # Public proffile/bio URL
-profile_url: http://www.google.com
+profile_url: https://www.childrenshospital.org/research/researchers/s/mustafa-sahin
+
+# Public proffile/bio URL
+profile_url_research: https://www.childrenshospital.org/research/researchers/s/mustafa-sahin
 
 # The sort order. Recommended by last name but can be change as needed
 sort: 1
@@ -19,3 +22,7 @@ show_status: true
 
 # Content isn't currently used but could be added with a few quick updates if needed to allow for bios
 ---
+
+
+ 
+
