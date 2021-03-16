@@ -13,7 +13,7 @@
       <div class="col-md-6">
         {{ content }}
       </div>
-      <div class="col-md-5  offset-md-1">
+      <div class="col-md-5 offset-md-1 bg-light p-4">
         {% assign sorted_items = site.teams %}
 
         {% for item in sorted_items %}
@@ -23,7 +23,7 @@
             <i class="fas fa-user text-primary"></i>
           </div>
           <div class="col-11">
-            <h4 class="mt-1 pt-0">{{ item.title }}</h4>
+            <h4 class="mt-2 pt-0">{{ item.title }}</h4>
             {{ item.summary }}
 
             {% if item.website %}
