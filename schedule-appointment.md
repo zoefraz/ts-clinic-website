@@ -9,9 +9,9 @@ hero_text:
 ---
 
 ## Who To Contact
-TSC Appointments
-Imani Lennon, Patient Experience Representation
-Phone: 617-355-2711
+TSC Appointments\
+Imani Lennon, Patient Experience Representation\
+Phone: 617-355-2711\
 Email: imani.lennon@childrens.harvard.edu
 
 ## Records we need prior to the appointment
