@@ -7,5 +7,4 @@ hero_title: "Tuberous Sclerosis Complex Resources"
 hero_text:
 
 ---
-
 Learn more about family education and support resources based in New England and nationally.

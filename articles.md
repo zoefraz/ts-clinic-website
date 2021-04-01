@@ -12,4 +12,4 @@ hero_text:
 ## Note, most of this page is built from information in the _articles folder
 ---
 
-# News & Articles
+# TSC News & Articles
