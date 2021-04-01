@@ -15,7 +15,9 @@ link_url: team.html
 picture: cta3.jpg
 
 # Short summary of the resource
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod, mauris ut mattis consectetur, eros urna fringilla tellus, at egestas purus ligula eget purus."
+summary: "Meet our multi-disciplinary team of healthcare professionals with expertise in TSC here to support you, your child and your family.
+
+"
 
 # What order
 sort: 1

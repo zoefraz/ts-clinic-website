@@ -15,7 +15,7 @@ link_url: resources.html
 picture: cta2.jpg
 
 # Short summary of the resource
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod, mauris ut mattis consectetur, eros urna fringilla tellus, at egestas purus ligula eget purus."
+summary: "Learn more about family education and support resources based in New England and nationally."
 
 # What order
 sort: 1
