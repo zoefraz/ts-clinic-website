@@ -8,4 +8,21 @@ hero_text:
 
 ---
 
-## Getting started...
+## Who To Contact
+TSC Appointments
+Imani Lennon, Patient Experience Representation
+Phone:617-355-2711
+Email: imani.lennon@childrens.harvard.edu
+
+## Records we need prior to the appointment
+Please obtain the following records, if they have been done:
+- MRI Brain and Abdomen reports AND images
+- Renal ultrasound report
+- Genetic testing results
+- EKG and ECHO reports
+- Cardiology notes
+- Ophthalmology notes
+- Neurology notes
+- Nephrology/ renal notes
+- Developmental testing, neuropsychological reports, IEP, school testing
+- EEG reports
