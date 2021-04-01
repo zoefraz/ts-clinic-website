@@ -41,18 +41,17 @@
             <div><small>{{ item.position_5 }}</small></div>
             {% endif %}
 
-            {% if item.profile_url_physician %}
+
             <div class="mt-0">
+            {% if item.profile_url_physician %}
               <a href="{{ item.profile_url_physician }}" target="_blank" title="{{ item.name }}"><small>Physician Profile <i
-                  class="fas fa-external-link-alt"></i></small></a>
-            </div>
+                  class="fas fa-external-link-alt"></i></small></a> &nbsp;&nbsp;
             {% endif %}
             {% if item.profile_url_research %}
-            <div class="mt-0">
               <a href="{{ item.profile_url_research }}" target="_blank" title="{{ item.name }}"><small>Research Profile <i
                     class="fas fa-external-link-alt"></i></small></a>
-            </div>
             {% endif %}
+            </div>
           </div>
         <hr />
         </div>
