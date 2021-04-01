@@ -20,8 +20,8 @@
         <div class="col-12">
           <h3 class="mt-0 pt-0 mb-1">{{ item.name }}</h3>
           {{ item.summary }}
-          hello
-          {% if item.file %}
+
+          {% if item.file_name %}
           <div class="mt-1">
             <a href="{{ site.url }}files/{{ item.file }}" title="{{ item.name }}">Download <i class="fas fa-external-link-alt"></i></a>
           </div>
