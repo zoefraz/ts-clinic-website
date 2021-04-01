@@ -8,4 +8,4 @@ hero_text:
 
 ---
 
-Please contact Mrs. Karin Sullivan, via e-mail at mrsgumby56@comcast.net or by phone at (508) 697-1527
+Learn more about family education and support resources based in New England and nationally.

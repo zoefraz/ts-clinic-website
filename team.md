@@ -5,7 +5,7 @@ layout: team
 title: Team
 
 hero_title: "Our Team"
-hero_text: "Meet the team dedicated to treating all aspects of Tuberous Sclerosis Complex (TSC) and other neurodevelopmental disorders."
+hero_text: "Meet our multi-disciplinary team of healthcare professionals with expertise in TSC here to support you, your child and your family."
 
 
 ## Below the --- you write the page text. Remember, this is Markdown -> https://www.markdownguide.org/cheat-sheet
@@ -13,7 +13,8 @@ hero_text: "Meet the team dedicated to treating all aspects of Tuberous Sclerosi
 ---
 
 # Team
+The Multi-Disciplinary Tuberous Sclerosis Program at Boston Children's Hospital is a team of pediatric specialists, who are dedicated to providing coordinated care for the TSC patients with multi-system problems. We have expertise in the areas of epilepsy, neurosurgery, neuropsychology, cardiology, nephrology, ophthalmology, dermatology and genetics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel lectus tincidunt, tincidunt quam sed, vehicula ligula. In hac habitasse platea dictumst. Donec auctor mi in consequat hendrerit. In tristique rhoncus elementum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas blandit laoreet bibendum. Mauris aliquet dapibus magna, ac semper est iaculis ac.
+Our program is directed by a child neurologist, a nurse coordinator and a licensed genetic counselor in the Department of Neurology. We also have an educational consultant who helps support families in their child's education needs.
 
-In quis felis ornare, convallis nibh id, vehicula tortor. Integer malesuada lobortis dolor quis porttitor. Morbi vulputate laoreet turpis eget condimentum. Quisque fringilla ullamcorper placerat. In ornare purus at iaculis tempor. Nullam ornare rhoncus leo. Aenean vel mauris augue. Vivamus a massa in metus porta tristique sed eu nibh. Praesent sodales mauris a ex tincidunt euismod. Nullam ac consequat enim. Nam nec velit in magna aliquet vestibulum at non odio. Cras eu lectus tristique, iaculis risus ut, pretium justo. Phasellus sed mattis sapien, et imperdiet velit.
+Patients are seen by specialists with the expertise that is appropriate for their particular symptoms. To learn more about each of the specialists, please see the team member profile pages.

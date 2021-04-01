@@ -3,22 +3,21 @@
 layout: team
 # Name of the person
 
-name: Mustafa Sahin, MD, PhD
+name: David T. Miller, MD, PhD
 # Optional GennCC Position/Title
 
-position_1: Director, Multi-Disciplinary Tuberous Sclerosis Program
-position_2: Director, Rosamund Stone Zander Translational Neuroscience Center Neurology
-position_3:
-
-
-# Public proffile/bio URL
-profile_url_physician: https://www.childrenshospital.org/directory/physicians/s/mustafa-sahin
+position_1: Director, Neurofibromatosis Program
+position_2: Clinical Geneticist and Medical Geneticist
+position_3: Division of Genetics & Genomics
 
 # Public proffile/bio URL
-profile_url_research: https://www.childrenshospital.org/research/researchers/s/mustafa-sahin
+profile_url_physician: http://www.childrenshospital.org/directory/physicians/m/david-miller
+
+# Public proffile/bio URL
+profile_url_research: http://www.childrenshospital.org/research/researchers/m/david-t-miller
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 1
+sort: 8
 
 # Show this entry on the page
 show_status: true

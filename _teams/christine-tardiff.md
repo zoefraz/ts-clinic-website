@@ -3,16 +3,20 @@
 layout: team
 # Name of the person
 
-name: Sample Person 5
+name: Christine Tardiff, MSW
 # Optional GennCC Position/Title
 
-position: Position
+position_1: Social Work
+position_2: Department of Neurology
 
 # Public proffile/bio URL
-profile_url:
+profile_url_physician: https://www.childrenshospital.org/directory/staff/t/christine-tardiff
+
+# Public proffile/bio URL
+profile_url_research:
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 1
+sort: 18
 
 # Show this entry on the page
 show_status: true

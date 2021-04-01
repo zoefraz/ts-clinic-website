@@ -3,16 +3,20 @@
 layout: team
 # Name of the person
 
-name: Sample Person 15
+name: Joseph Gonzalez- Heydrich, MD
 # Optional GennCC Position/Title
 
-position: Position
+position_1: Senior Attending Psychiatrist
+position_2: Department of Psychiatry
 
 # Public proffile/bio URL
-profile_url:
+profile_url_physician: https://www.childrenshospital.org/directory/physicians/g/joseph-gonzalez
+
+# Public proffile/bio URL
+profile_url_research: https://www.childrenshospital.org/research/researchers/g/joseph-gonzalezheydrich
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 1
+sort: 12
 
 # Show this entry on the page
 show_status: true

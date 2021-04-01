@@ -3,16 +3,21 @@
 layout: team
 # Name of the person
 
-name: Sample Person 2
+name: Kitty Petty, MA, MEd, LMHC
 # Optional GennCC Position/Title
 
-position: Position
+position_1: Educational Consultant
+position_2: Department of Neurology
+
 
 # Public proffile/bio URL
-profile_url:
+profile_url_physician: https://www.childrenshospital.org/directory/staff/p/catherine-petty
+
+# Public proffile/bio URL
+profile_url_research:
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 1
+sort: 17
 
 # Show this entry on the page
 show_status: true

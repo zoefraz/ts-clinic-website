@@ -3,16 +3,22 @@
 layout: team
 # Name of the person
 
-name: Sample Person 18
+name: Peter Davis, MD
 # Optional GennCC Position/Title
 
-position: Position
+position_1: Assistant, Department of Neurology
+position_2: Epilepsy and Clinical Neurophysiology
+position_3:
+
 
 # Public proffile/bio URL
-profile_url:
+profile_url_physician: http://www.childrenshospital.org/directory/physicians/d/peter-davis
+
+# Public proffile/bio URL
+profile_url_research:
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 1
+sort: 3
 
 # Show this entry on the page
 show_status: true

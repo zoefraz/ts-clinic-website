@@ -3,16 +3,21 @@
 layout: team
 # Name of the person
 
-name: Sample Person 9
+name: Kira A. Dies, ScM, CGC
 # Optional GennCC Position/Title
 
-position: Position
+position_1: Licensed Genetic Counselor
+position_2: Executive Director, Rosamund Stone Zander Translational Neuroscience Center
+position_3: Department of Neurology
 
 # Public proffile/bio URL
-profile_url:
+profile_url_physician: https://www.childrenshospital.org/directory/staff/d/kira-dies
+
+# Public proffile/bio URL
+profile_url_research:
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 1
+sort: 15
 
 # Show this entry on the page
 show_status: true

@@ -3,16 +3,22 @@
 layout: team
 # Name of the person
 
-name: Sample Person 17
+name: Marilyn Liang, MD
 # Optional GennCC Position/Title
 
-position: Position
+position_1: Co-Director, Vascular Anomalies Center
+position_2: Attending Physician, Dermatology Program
+position_3: Department of Dermatology
+
 
 # Public proffile/bio URL
-profile_url:
+profile_url_physician: http://www.childrenshospital.org/directory/physicians/l/marilyn-liang
+
+# Public proffile/bio URL
+profile_url_research:
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 1
+sort: 7
 
 # Show this entry on the page
 show_status: true

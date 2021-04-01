@@ -3,16 +3,20 @@
 layout: team
 # Name of the person
 
-name: Sample Person 14
+name: Kerim Munir, MD, MPH, DSc
 # Optional GennCC Position/Title
 
-position: Position
+position_1: Attending Clinical Psychiatrist
+position_2: Developmental Medicine Center
 
 # Public proffile/bio URL
-profile_url:
+profile_url_physician: https://www.childrenshospital.org/directory/physicians/m/kerim-munir
+
+# Public proffile/bio URL
+profile_url_research: https://www.childrenshospital.org/research/researchers/m/kerim-munir
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 1
+sort: 13
 
 # Show this entry on the page
 show_status: true

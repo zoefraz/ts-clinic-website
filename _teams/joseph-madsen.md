@@ -3,16 +3,23 @@
 layout: team
 # Name of the person
 
-name: Sample Person 16
+name: Joseph Madsen, MD
 # Optional GennCC Position/Title
 
-position: Position
+position_1: Director, Epilepsy Surgery
+position_2: Associate, Department of Neurosurgery
+position_3: Department of Neurosurgery
+
+
 
 # Public proffile/bio URL
-profile_url:
+profile_url_physician: http://www.childrenshospital.org/directory/physicians/m/joseph-madsen
+
+# Public proffile/bio URL
+profile_url_research: http://www.childrenshospital.org/directory/research/m/joseph-madsen
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 1
+sort: 5
 
 # Show this entry on the page
 show_status: true

@@ -3,16 +3,22 @@
 layout: team
 # Name of the person
 
-name: Sample Person 6
+name: Jurriaan Peters, MD, PhD
 # Optional GennCC Position/Title
 
-position: Position
+position_1: Assistant, Department of Neurology
+position_2: Epilepsy and Clinical Neurophysiology
+position_3:
+
 
 # Public proffile/bio URL
-profile_url:
+profile_url_physician: http://www.childrenshospital.org/directory/physicians/p/jurriaan-peters
+
+# Public proffile/bio URL
+profile_url_research: http://www.childrenshospital.org/research/researchers/p/jurriaan-peters
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 1
+sort: 2
 
 # Show this entry on the page
 show_status: true
