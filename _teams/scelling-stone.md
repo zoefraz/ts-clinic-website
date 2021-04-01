@@ -6,9 +6,9 @@ layout: team
 name: Scelling Stone, MD, PhD
 # Optional GennCC Position/Title
 
-position_1: Neurosurgical Director, Movement Disorders and Deep Brain Stimulation Program
-position_2: Director, Stereotactic and Functional Neurosurgery
-position_3: Department of Neurosurgery
+# position_1: Neurosurgical Director, Movement Disorders and Deep Brain Stimulation Program
+# position_2: Director, Stereotactic and Functional Neurosurgery
+# position_3: Department of Neurosurgery
 
 # Public proffile/bio URL
 profile_url_physician: https://www.childrenshospital.org/directory/physicians/s/scellig-stone

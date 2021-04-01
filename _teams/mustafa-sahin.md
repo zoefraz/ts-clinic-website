@@ -7,8 +7,8 @@ name: Mustafa Sahin, MD, PhD
 # Optional GennCC Position/Title
 
 position_1: Director, Multi-Disciplinary Tuberous Sclerosis Program
-position_2: Director, Rosamund Stone Zander Translational Neuroscience Center Neurology
-position_3:
+# position_2: Director, Rosamund Stone Zander Translational Neuroscience Center Neurology
+# position_3:
 
 
 # Public proffile/bio URL

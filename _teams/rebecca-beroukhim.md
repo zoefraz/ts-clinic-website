@@ -6,8 +6,8 @@ layout: team
 name: Rebecca Beroukhim, MD
 # Optional GennCC Position/Title
 
-position_1: Co-Director, Cardiac Tumor Program
-position_2: Cardiology Department
+# position_1: Co-Director, Cardiac Tumor Program
+# position_2: Cardiology Department
 
 # Public proffile/bio URL
 profile_url_physician: http://www.childrenshospital.org/directory/physicians/b/rebecca-beroukhim

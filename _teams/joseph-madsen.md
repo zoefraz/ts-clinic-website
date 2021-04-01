@@ -6,9 +6,9 @@ layout: team
 name: Joseph Madsen, MD
 # Optional GennCC Position/Title
 
-position_1: Director, Epilepsy Surgery
-position_2: Associate, Department of Neurosurgery
-position_3: Department of Neurosurgery
+# position_1: Director, Epilepsy Surgery
+# position_2: Associate, Department of Neurosurgery
+# position_3: Department of Neurosurgery
 
 
 

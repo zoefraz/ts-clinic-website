@@ -6,9 +6,9 @@ layout: team
 name: Jennifer McCrave, RN, BSN, CNRN
 # Optional GennCC Position/Title
 
-position_1: Registered Nurse
-position_2: Department of Neurology
-position_3: Nurse Coordinator
+# position_1: Registered Nurse
+# position_2: Department of Neurology
+# position_3: Nurse Coordinator
 
 # Public proffile/bio URL
 profile_url_physician: http://www.childrenshospital.org/directory/nurses/m/jennifer-mccrave

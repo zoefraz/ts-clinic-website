@@ -6,9 +6,9 @@ layout: team
 name: Kira A. Dies, ScM, CGC
 # Optional GennCC Position/Title
 
-position_1: Licensed Genetic Counselor
-position_2: Executive Director, Rosamund Stone Zander Translational Neuroscience Center
-position_3: Department of Neurology
+# position_1: Licensed Genetic Counselor
+# position_2: Executive Director, Rosamund Stone Zander Translational Neuroscience Center
+# position_3: Department of Neurology
 
 # Public proffile/bio URL
 profile_url_physician: https://www.childrenshospital.org/directory/staff/d/kira-dies

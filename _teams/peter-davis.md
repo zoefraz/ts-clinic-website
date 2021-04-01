@@ -6,9 +6,9 @@ layout: team
 name: Peter Davis, MD
 # Optional GennCC Position/Title
 
-position_1: Assistant, Department of Neurology
-position_2: Epilepsy and Clinical Neurophysiology
-position_3:
+# position_1: Assistant, Department of Neurology
+# position_2: Epilepsy and Clinical Neurophysiology
+# position_3:
 
 
 # Public proffile/bio URL

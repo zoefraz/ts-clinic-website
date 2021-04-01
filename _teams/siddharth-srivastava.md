@@ -6,9 +6,9 @@ layout: team
 name: Siddharth Srivastava, MD
 # Optional GennCC Position/Title
 
-position_1: Assistant, Department of Neurology
-position_2: Developmental Neurogenetics
-position_3:
+# position_1: Assistant, Department of Neurology
+# position_2: Developmental Neurogenetics
+# position_3:
 
 
 # Public proffile/bio URL

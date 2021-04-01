@@ -6,8 +6,8 @@ layout: team
 name: Christine Tardiff, MSW
 # Optional GennCC Position/Title
 
-position_1: Social Work
-position_2: Department of Neurology
+# position_1: Social Work
+# position_2: Department of Neurology
 
 # Public proffile/bio URL
 profile_url_physician: https://www.childrenshospital.org/directory/staff/t/christine-tardiff

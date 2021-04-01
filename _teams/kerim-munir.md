@@ -6,8 +6,8 @@ layout: team
 name: Kerim Munir, MD, MPH, DSc
 # Optional GennCC Position/Title
 
-position_1: Attending Clinical Psychiatrist
-position_2: Developmental Medicine Center
+# position_1: Attending Clinical Psychiatrist
+# position_2: Developmental Medicine Center
 
 # Public proffile/bio URL
 profile_url_physician: https://www.childrenshospital.org/directory/physicians/m/kerim-munir

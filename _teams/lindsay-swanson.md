@@ -6,8 +6,8 @@ layout: team
 name: Lindsay Swanson, MS, CGC
 # Optional GennCC Position/Title
 
-position_1: Licensed Genetic Counselor
-position_2: Department of Neurology
+# position_1: Licensed Genetic Counselor
+# position_2: Department of Neurology
 
 
 # Public proffile/bio URL

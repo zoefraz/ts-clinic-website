@@ -6,8 +6,8 @@ layout: team
 name: Kitty Petty, MA, MEd, LMHC
 # Optional GennCC Position/Title
 
-position_1: Educational Consultant
-position_2: Department of Neurology
+# position_1: Educational Consultant
+# position_2: Department of Neurology
 
 
 # Public proffile/bio URL

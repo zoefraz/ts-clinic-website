@@ -6,9 +6,9 @@ layout: team
 name: Anne Bailey Fulton, MD
 # Optional GennCC Position/Title
 
-position_1: Ophthalmologist, Department of Ophthalmology
-position_2: Director, Pediatric Medical Retinal Service
-position_3: Department of Ophthalmology
+# position_1: Ophthalmologist, Department of Ophthalmology
+# position_2: Director, Pediatric Medical Retinal Service
+# position_3: Department of Ophthalmology
 
 # Public proffile/bio URL
 profile_url_physician: http://www.childrenshospital.org/directory/physicians/f/anne-fulton

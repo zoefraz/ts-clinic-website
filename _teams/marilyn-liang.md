@@ -6,9 +6,9 @@ layout: team
 name: Marilyn Liang, MD
 # Optional GennCC Position/Title
 
-position_1: Co-Director, Vascular Anomalies Center
-position_2: Attending Physician, Dermatology Program
-position_3: Department of Dermatology
+# position_1: Co-Director, Vascular Anomalies Center
+# position_2: Attending Physician, Dermatology Program
+# position_3: Department of Dermatology
 
 
 # Public proffile/bio URL

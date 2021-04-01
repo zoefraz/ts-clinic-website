@@ -6,10 +6,10 @@ layout: team
 name: Michael J.G. Somers, MD
 # Optional GennCC Position/Title
 
-position_1: Attending, Division of Nephrology
-position_2: Director, Clinical Services, Division of Nephrology
-position_3: Medical Director, Renal Dialysis Unit
-position_4: Department of Nephrology
+# position_1: Attending, Division of Nephrology
+# position_2: Director, Clinical Services, Division of Nephrology
+# position_3: Medical Director, Renal Dialysis Unit
+# position_4: Department of Nephrology
 
 # Public proffile/bio URL
 profile_url_physician: http://www.childrenshospital.org/directory/physicians/s/michael-somers
