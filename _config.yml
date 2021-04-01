@@ -17,7 +17,7 @@ collections:
   resources:
     output: true
     show_status: true
-  ctas:
+  ctas_home:
     output: true
     show_status: true
   articles:

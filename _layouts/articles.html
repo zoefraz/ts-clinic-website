@@ -21,12 +21,26 @@
           <h3 class="mt-0 pt-0 mb-1">{{ item.name }}</h3>
           {{ item.summary }}
 
+          {% if item.file %}
+          <div class="mt-1">
+            <a href="{{ site.url }}files/{{ item.file }}" title="{{ item.name }}">Download <i class="fas fa-external-link-alt"></i></a>
+          </div>
+          {% endif %}
+
           {% if item.website %}
           <div class="mt-1">
             <a href="{{ item.website }}" title="{{ item.name }}">{{ item.website
               }} <i class="fas fa-external-link-alt"></i></a>
           </div>
           {% endif %}
+
+          {% if item.file_only != true %}
+          <div class="mt-1">
+            <a href="{{ item.url }}" title="{{ item.name }}">Read more... <i
+                class="fas fa-external-link-alt"></i></a>
+          </div>
+          {% endif %}
+
         </div>
         <hr class="m-3" />
       </div>
