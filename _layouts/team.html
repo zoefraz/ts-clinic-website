@@ -24,12 +24,33 @@
           </div>
           <div class="col-11">
             <h4 class="p-0 m-0 ">{{ item.name }}</h4>
-            <small>{{ item.position }}</small>
 
-            {% if item.profile_url %}
+            {% if item.position_1 %}
+            <div><small>{{ item.position_1 }}</small></div>
+            {% endif %}
+            {% if item.position_2 %}
+            <div><small>{{ item.position_2 }}</small></div>
+            {% endif %}
+            {% if item.position_3 %}
+            <div><small>{{ item.position_3 }}</small></div>
+            {% endif %}
+            {% if item.position_4 %}
+            <div><small>{{ item.position_4 }}</small></div>
+            {% endif %}
+            {% if item.position_5 %}
+            <div><small>{{ item.position_5 }}</small></div>
+            {% endif %}
+
+            {% if item.profile_url_physician %}
             <div class="mt-0">
-              <a href="{{ item.profile_url }}" target="_blank" title="{{ item.name }}"><small>Profile <small></small><i
-                  class="fas fa-external-link-alt"></i></small></small></a>
+              <a href="{{ item.profile_url_physician }}" target="_blank" title="{{ item.name }}"><small>Physician Profile <i
+                  class="fas fa-external-link-alt"></i></small></a>
+            </div>
+            {% endif %}
+            {% if item.profile_url_research %}
+            <div class="mt-0">
+              <a href="{{ item.profile_url_research }}" target="_blank" title="{{ item.name }}"><small>Research Profile <i
+                    class="fas fa-external-link-alt"></i></small></a>
             </div>
             {% endif %}
           </div>
