@@ -16,7 +16,7 @@ profile_url_physician: https://www.childrenshospital.org/directory/staff/t/chris
 profile_url_research:
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 18
+order: 18
 
 # Show this entry on the page
 show_status: true

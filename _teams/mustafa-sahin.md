@@ -18,7 +18,7 @@ profile_url_physician: https://www.childrenshospital.org/directory/physicians/s/
 profile_url_research: https://www.childrenshospital.org/research/researchers/s/mustafa-sahin
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 1
+order: 1
 
 # Show this entry on the page
 show_status: true

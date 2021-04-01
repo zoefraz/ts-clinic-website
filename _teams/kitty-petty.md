@@ -17,7 +17,7 @@ profile_url_physician: https://www.childrenshospital.org/directory/staff/p/cathe
 profile_url_research:
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 17
+order: 17
 
 # Show this entry on the page
 show_status: true

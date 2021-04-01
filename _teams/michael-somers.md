@@ -18,7 +18,7 @@ profile_url_physician: http://www.childrenshospital.org/directory/physicians/s/m
 profile_url_research: http://www.childrenshospital.org/research/researchers/s/michael-somers
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 11
+order: 11
 
 # Show this entry on the page
 show_status: true

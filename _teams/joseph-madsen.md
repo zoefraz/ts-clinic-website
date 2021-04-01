@@ -19,7 +19,7 @@ profile_url_physician: http://www.childrenshospital.org/directory/physicians/m/j
 profile_url_research: http://www.childrenshospital.org/directory/research/m/joseph-madsen
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 5
+order: 5
 
 # Show this entry on the page
 show_status: true

@@ -17,7 +17,7 @@ profile_url_physician: http://www.childrenshospital.org/directory/nurses/m/jenni
 profile_url_research:
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 14
+order: 14
 
 # Show this entry on the page
 show_status: true

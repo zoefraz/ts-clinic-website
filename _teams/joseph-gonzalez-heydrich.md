@@ -16,7 +16,7 @@ profile_url_physician: https://www.childrenshospital.org/directory/physicians/g/
 profile_url_research: https://www.childrenshospital.org/research/researchers/g/joseph-gonzalezheydrich
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 12
+order: 12
 
 # Show this entry on the page
 show_status: true

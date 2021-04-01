@@ -18,7 +18,7 @@ profile_url_physician: http://www.childrenshospital.org/directory/physicians/l/m
 profile_url_research:
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 7
+order: 7
 
 # Show this entry on the page
 show_status: true

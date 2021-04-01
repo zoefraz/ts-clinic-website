@@ -17,7 +17,7 @@ profile_url_physician: http://www.childrenshospital.org/directory/physicians/m/d
 profile_url_research: http://www.childrenshospital.org/research/researchers/m/david-t-miller
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 8
+order: 8
 
 # Show this entry on the page
 show_status: true

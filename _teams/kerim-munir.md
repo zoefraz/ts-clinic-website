@@ -16,7 +16,7 @@ profile_url_physician: https://www.childrenshospital.org/directory/physicians/m/
 profile_url_research: https://www.childrenshospital.org/research/researchers/m/kerim-munir
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 13
+order: 13
 
 # Show this entry on the page
 show_status: true

@@ -16,7 +16,7 @@ profile_url_physician: http://www.childrenshospital.org/directory/physicians/b/r
 profile_url_research: http://www.childrenshospital.org/research/researchers/b/rebecca-beroukhim
 
 # The sort order. Recommended by last name but can be change as needed
-sort: 10
+order: 10
 
 # Show this entry on the page
 show_status: true
