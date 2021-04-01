@@ -12,13 +12,12 @@
 
       <hr />
 
-      {% assign sorted_items = site.resources %}
-
+      {% assign sorted_items = site.articles %}
       {% for item in sorted_items %}
       {% if item.show_status != false %}
       <div class="mb-4 row">
         <div class="col-12">
-          <h3 class="mt-0 pt-0 mb-1">{{ item.name }}</h3>
+          <h3 class="mt-0 pt-0 mb-1">{{ item.title }}</h3>
           {{ item.summary }}
 
           {% if item.file_name %}

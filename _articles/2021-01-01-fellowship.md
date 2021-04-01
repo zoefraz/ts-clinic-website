@@ -3,7 +3,7 @@
 layout: article
 
 # Name of article
-name: "Boston Children’s Hospital Rosamund Stone Zander Translational Neuroscience Center (RSZ-TNC) Fellowship Program"
+title: "Boston Children’s Hospital Rosamund Stone Zander Translational Neuroscience Center (RSZ-TNC) Fellowship Program"
 
 #Date of article (also used for sorting)
 date: Mar 1, 2021

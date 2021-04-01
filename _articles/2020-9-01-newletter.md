@@ -3,7 +3,7 @@
 layout: article
 
 # Name of article
-name: "TSC Newsletter - Fall 2020"
+title: "TSC Newsletter - Fall 2020"
 
 #Date of article (also used for sorting)
 date: Sept 1, 2020

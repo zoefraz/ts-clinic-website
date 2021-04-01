@@ -3,7 +3,7 @@
 layout: article
 
 # Name of article
-name: "Boston Children's Receives a $25.1-5 Million Donation, Establishes Rosamund Stone Zander Translational Neuroscience Center"
+title: "Boston Children's Receives a $25.1-5 Million Donation, Establishes Rosamund Stone Zander Translational Neuroscience Center"
 
 #Date of article (also used for sorting)
 date: Jan 1, 2021
