@@ -14,7 +14,7 @@ summary: "Learn about what is happening at Boston Children’s Hospital Translat
 # File only to true means that link will only the file only and not go to a new page
 file_only: true
 
-file_name: TNC Fall Newsletter 2020.pdf
+file_name: "TNC Fall Newsletter 2020.pdf"
 
 # Show this entry on the page
 show_status: true

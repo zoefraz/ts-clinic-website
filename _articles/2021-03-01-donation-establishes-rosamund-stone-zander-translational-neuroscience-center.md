@@ -14,7 +14,7 @@ summary: "Boston Children's Hospital today announced that it has received a dona
 # File only to true means that link will only the file only and not go to a new page
 file_only: true
 
-file_name: boston-childrens-receives-a-25-45-million-donation-establishes-rosamund-stone-zander-translational-neuroscience-center-654912108.pdf
+file_name: "boston-childrens-receives-a-25-45-million-donation-establishes-rosamund-stone-zander-translational-neuroscience-center-654912108.pdf"
 
 # Show this entry on the page
 show_status: true

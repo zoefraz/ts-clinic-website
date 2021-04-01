@@ -14,7 +14,7 @@ summary: "To develop the next generation of translational scientists, the RSZ-TN
 # File only to true means that link will only the file only and not go to a new page
 file_only: true
 
-file_name: RSZ TNC Fellowship.pdf
+file_name: "RSZ TNC Fellowship.pdf"
 
 # Show this entry on the page
 show_status: true
