@@ -3,10 +3,10 @@
 layout: article
 
 # Name of article
-title: "Boston Children’s Hospital Rosamund Stone Zander Translational Neuroscience Center (RSZ-TNC) Fellowship Program"
+headline: "Boston Children’s Hospital Rosamund Stone Zander Translational Neuroscience Center (RSZ-TNC) Fellowship Program"
 
 #Date of article (also used for sorting)
-date: Mar 1, 2021
+date: "Mar 1, 2021"
 
 # Short summary of the article
 summary: "To develop the next generation of translational scientists, the RSZ-TNC has developed a post-doctoral training program focused on translational research in childhood brain disorders. Fellows will pursue translational research projects designed to facilitate the development of novel therapeutics, leveraging the depth and breadth of the expertise within the RSZ-TNC through mentoring by clinicians, basic scientists and industry and non-profit experts. To support research efforts, the RSZ-TNC hosts a set of cores with expertise in iPSC derived neuronal modelling, animal and clinical neurophysiology and clinical research. The goal of the program is to further therapeutic development and train scientists to conduct independent translational research."
@@ -20,3 +20,4 @@ file_name: RSZ TNC Fellowship.pdf
 show_status: true
 
 # Content can be added but not required.  At the moment this will only show on the home page area.
+---

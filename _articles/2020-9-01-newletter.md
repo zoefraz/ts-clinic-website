@@ -3,10 +3,10 @@
 layout: article
 
 # Name of article
-title: "TSC Newsletter - Fall 2020"
+headline: "TSC Newsletter - Fall 2020"
 
 #Date of article (also used for sorting)
-date: Sept 1, 2020
+date: "Sept 1, 2020"
 
 # Short summary of the article
 summary: "Learn about what is happening at Boston Children’s Hospital Translational Neuroscience Center"
@@ -20,3 +20,4 @@ file_name: TNC Fall Newsletter 2020.pdf
 show_status: true
 
 # Content can be added but not required.  At the moment this will only show on the home page area.
+---
