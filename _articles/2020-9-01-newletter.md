@@ -1,6 +1,6 @@
 ---
 # What layout to use (though not currently used)
-layout: articles
+layout: article
 
 # Name of article
 name: "TSC Newsletter - Fall 2020"

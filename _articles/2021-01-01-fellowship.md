@@ -1,6 +1,6 @@
 ---
 # What layout to use (though not currently used)
-layout: articles
+layout: article
 
 # Name of article
 name: "Boston Children’s Hospital Rosamund Stone Zander Translational Neuroscience Center (RSZ-TNC) Fellowship Program"
