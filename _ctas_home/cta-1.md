@@ -9,13 +9,13 @@ headline: Schedule An Appointment
 link_text: Schedule An Appointment
 
 # link or website
-link_url: https://www.childrenshospital.org
+link_url: schedule-appointment.html
 
 # link or website
 picture: cta1.jpg
 
 # Short summary of the resource
-summary: "If you would like to make an appointment with our program, please contact the Boston Children's Hospital scheduling center and mention the TS Clinic."
+summary: "If you would like to make an appointment with our program, please click here to learn who to contact and what to bring."
 
 # What order
 sort: 1
