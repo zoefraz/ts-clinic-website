@@ -22,7 +22,7 @@
 
           {% if item.file_name %}
           <div class="mt-1">
-            <a href="{{ site.url }}files/{{ item.file }}" title="{{ item.name }}">Download <i class="fas fa-external-link-alt"></i></a>
+            <a href="{{ site.url }}files/{{ item.file }}" title="{{ item.name }}">Download <i class="fas fa-external-link-alt"></i></a>{{ item.file_name }}
           </div>
           {% endif %}
 
