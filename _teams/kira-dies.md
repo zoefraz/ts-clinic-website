@@ -11,7 +11,10 @@ name: Kira A. Dies, ScM, CGC
 # position_3: Department of Neurology
 
 # Public proffile/bio URL
-profile_url_physician: https://www.childrenshospital.org/directory/staff/d/kira-dies
+profile_url_physician:
+
+# Public proffile/bio URL
+profile_url_bch: https://www.childrenshospital.org/directory/staff/d/kira-dies
 
 # Public proffile/bio URL
 profile_url_research:

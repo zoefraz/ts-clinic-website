@@ -10,9 +10,11 @@ hero_text:
 
 ## Who To Contact
 TSC Appointments\
-Imani Lennon, Patient Experience Representation\
+Imani Lennon, Patient Experience Representative\
 Phone: 617-355-2711\
 Email: imani.lennon@childrens.harvard.edu
+
+For international patients, please contact the Boston Children's Hospital Global Center to schedule your appointment: [Click here to learn more](https://www.childrenshospital.org/international/become-a-patient)
 
 ## Records we need prior to the appointment
 Please obtain the following records, if they have been done:

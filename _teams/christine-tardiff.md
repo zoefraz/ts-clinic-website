@@ -10,7 +10,10 @@ name: Christine Tardiff, MSW
 # position_2: Department of Neurology
 
 # Public proffile/bio URL
-profile_url_physician: https://www.childrenshospital.org/directory/staff/t/christine-tardiff
+profile_url_physician:
+
+# Public proffile/bio URL
+profile_url_bch: https://www.childrenshospital.org/directory/staff/t/christine-tardiff
 
 # Public proffile/bio URL
 profile_url_research:

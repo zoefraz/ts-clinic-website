@@ -20,4 +20,4 @@ The Multi-Disciplinary Tuberous Sclerosis Program at Boston Children's Hospital 
 
 Our program is directed by a child neurologist, a nurse coordinator and a licensed genetic counselor in the Department of Neurology. We also have an educational consultant who helps support families in their child's education needs.
 
-Patients are seen by specialists with the expertise that is appropriate for their particular symptoms. To learn more about each of the specialists, please see the faculty on this website.
+Patients are seen by specialists with the expertise that is appropriate for their particular symptoms. To learn more about each of the specialists, please see the [Team on this website](team).

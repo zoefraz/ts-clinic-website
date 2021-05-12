@@ -11,7 +11,10 @@ name: Jennifer McCrave, RN, BSN, CNRN
 # position_3: Nurse Coordinator
 
 # Public proffile/bio URL
-profile_url_physician: http://www.childrenshospital.org/directory/nurses/m/jennifer-mccrave
+profile_url_physician:
+
+# Public proffile/bio URL
+profile_url_bch: http://www.childrenshospital.org/directory/nurses/m/jennifer-mccrave
 
 # Public proffile/bio URL
 profile_url_research:

@@ -9,9 +9,11 @@ name: Lindsay Swanson, MS, CGC
 # position_1: Licensed Genetic Counselor
 # position_2: Department of Neurology
 
+# Public proffile/bio URL
+profile_url_physician:
 
 # Public proffile/bio URL
-profile_url_physician: https://www.childrenshospital.org/directory/staff/s/lindsay-swanson
+profile_url_bch: https://www.childrenshospital.org/directory/staff/s/lindsay-swanson
 
 # Public proffile/bio URL
 profile_url_research:

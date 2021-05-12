@@ -11,7 +11,10 @@ name: Kitty Petty, MA, MEd, LMHC
 
 
 # Public proffile/bio URL
-profile_url_physician: https://www.childrenshospital.org/directory/staff/p/catherine-petty
+profile_url_physician:
+
+# Public proffile/bio URL
+profile_url_bch: https://www.childrenshospital.org/directory/staff/p/catherine-petty
 
 # Public proffile/bio URL
 profile_url_research:

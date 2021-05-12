@@ -47,6 +47,10 @@
               <a href="{{ item.profile_url_physician }}" target="_blank" title="{{ item.name }}"><small>Physician Profile <i
                   class="fas fa-external-link-alt"></i></small></a> &nbsp;&nbsp;
             {% endif %}
+            {% if item.profile_url_bch %}
+            <a href="{{ item.profile_url_bch }}" target="_blank" title="{{ item.name }}"><small>BCH Profile <i
+                  class="fas fa-external-link-alt"></i></small></a> &nbsp;&nbsp;
+            {% endif %}
             {% if item.profile_url_research %}
               <a href="{{ item.profile_url_research }}" target="_blank" title="{{ item.name }}"><small>Research Profile <i
                     class="fas fa-external-link-alt"></i></small></a>
