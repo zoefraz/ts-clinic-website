@@ -14,7 +14,7 @@ url_resources: resources.html
 url_what: what-is.html
 url_appointment: schedule-appointment.html
 
-theme_remote: RSZ-Translational-Neuroscience-Center/ts-clinic-website
+theme_remote: RSZ-Translational-Neuroscience-Center/ts-clinic-website/
 
 collections:
   resources:
