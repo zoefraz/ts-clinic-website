@@ -11,6 +11,11 @@ name: Michael J.G. Somers, MD
 # position_3: Medical Director, Renal Dialysis Unit
 # position_4: Department of Nephrology
 
+# department_1:
+# department_2:
+# department_3:
+# department_4:
+
 # Public proffile/bio URL
 profile_url_physician: http://www.childrenshospital.org/directory/physicians/s/michael-somers
 

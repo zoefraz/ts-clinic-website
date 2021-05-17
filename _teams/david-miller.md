@@ -9,6 +9,12 @@ name: David T. Miller, MD, PhD
 # position_1: Director, Neurofibromatosis Program
 # position_2: Clinical Geneticist and Medical Geneticist
 # position_3: Division of Genetics & Genomics
+# position_4:
+
+# department_1:
+# department_2:
+# department_3:
+# department_4:
 
 # Public proffile/bio URL
 profile_url_physician: http://www.childrenshospital.org/directory/physicians/m/david-miller

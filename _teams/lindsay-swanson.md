@@ -8,6 +8,13 @@ name: Lindsay Swanson, MS, CGC
 
 # position_1: Licensed Genetic Counselor
 # position_2: Department of Neurology
+# position_3:
+# position_4:
+
+# department_1:
+# department_2:
+# department_3:
+# department_4:
 
 # Public proffile/bio URL
 profile_url_physician:

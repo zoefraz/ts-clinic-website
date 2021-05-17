@@ -8,6 +8,13 @@ name: Joseph Gonzalez- Heydrich, MD
 
 # position_1: Senior Attending Psychiatrist
 # position_2: Department of Psychiatry
+# position_3:
+# position_4:
+
+# department_1:
+# department_2:
+# department_3:
+# department_4:
 
 # Public proffile/bio URL
 profile_url_physician: https://www.childrenshospital.org/directory/physicians/g/joseph-gonzalez

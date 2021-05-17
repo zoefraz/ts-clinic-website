@@ -8,6 +8,13 @@ name: Kitty Petty, MA, MEd, LMHC
 
 # position_1: Educational Consultant
 # position_2: Department of Neurology
+# position_3:
+# position_4:
+
+# department_1:
+# department_2:
+# department_3:
+# department_4:
 
 
 # Public proffile/bio URL
