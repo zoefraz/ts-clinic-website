@@ -11,7 +11,7 @@ name: Joseph Gonzalez- Heydrich, MD
 # position_3:
 # position_4:
 
-# department_1:
+department_1: Department of Psychiatry
 # department_2:
 # department_3:
 # department_4:

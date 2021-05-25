@@ -11,7 +11,7 @@ name: Anne Bailey Fulton, MD
 # position_3: Department of Ophthalmology
 # position_4:
 
-# department_1:
+department_1: Department of Ophthalmology
 # department_2:
 # department_3:
 # department_4:

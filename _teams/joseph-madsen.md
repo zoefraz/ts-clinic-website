@@ -11,7 +11,7 @@ name: Joseph Madsen, MD
 # position_3: Department of Neurosurgery
 # position_4:
 
-# department_1:
+department_1: Department of Neurosurgery
 # department_2:
 # department_3:
 # department_4:

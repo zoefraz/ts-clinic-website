@@ -11,7 +11,7 @@ name: Marilyn Liang, MD
 # position_3: Department of Dermatology
 # position_4:
 
-# department_1:
+department_1: Department of Dermatology
 # department_2:
 # department_3:
 # department_4:

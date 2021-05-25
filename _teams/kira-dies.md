@@ -11,7 +11,7 @@ name: Kira A. Dies, ScM, CGC
 # position_3: Department of Neurology
 # position_4:
 
-# department_1:
+department_1: Department of Neurology
 # department_2:
 # department_3:
 # department_4:

@@ -11,7 +11,7 @@ name: Jennifer McCrave, RN, BSN, CNRN
 # position_3: Nurse Coordinator
 # position_4:
 
-# department_1:
+department_1: Department of Neurology
 # department_2:
 # department_3:
 # department_4:

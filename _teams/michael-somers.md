@@ -11,7 +11,7 @@ name: Michael J.G. Somers, MD
 # position_3: Medical Director, Renal Dialysis Unit
 # position_4: Department of Nephrology
 
-# department_1:
+department_1: Department of Nephrology
 # department_2:
 # department_3:
 # department_4:

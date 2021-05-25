@@ -11,7 +11,7 @@ name: David T. Miller, MD, PhD
 # position_3: Division of Genetics & Genomics
 # position_4:
 
-# department_1:
+department_1: Division of Genetics & Genomics
 # department_2:
 # department_3:
 # department_4:
