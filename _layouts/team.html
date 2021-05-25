@@ -29,6 +29,20 @@
           <div class="col-11">
             <h5 class="p-0 m-0 ">{{ item.name }}</h5>
 
+
+            {% if item.department_1 %}
+            <div class="text-muted"><small class='text-muted'>{{ item.department_1 }}</small></div>
+            {% endif %}
+            {% if item.department_2 %}
+            <div class="text-muted"><small>{{ item.department_2 }}</small></div>
+            {% endif %}
+            {% if item.department_3 %}
+            <div class="text-muted"><small>{{ item.department_3 }}</small></div>
+            {% endif %}
+            {% if item.department_4 %}
+            <div class="text-muted"><small>{{ item.department_4 }}</small></div>
+            {% endif %}
+
             {% if item.position_1 %}
             <div><small>{{ item.position_1 }}</small></div>
             {% endif %}
@@ -43,18 +57,6 @@
             {% endif %}
             {% if item.position_5 %}
             <div><small>{{ item.position_5 }}</small></div>
-            {% endif %}
-            {% if item.department_1 %}
-            <div><small>{{ item.department_1 }}</small></div>
-            {% endif %}
-            {% if item.department_2 %}
-            <div><small>{{ item.department_2 }}</small></div>
-            {% endif %}
-            {% if item.department_3 %}
-            <div><small>{{ item.department_3 }}</small></div>
-            {% endif %}
-            {% if item.department_4 %}
-            <div><small>{{ item.department_4 }}</small></div>
             {% endif %}
 
 
