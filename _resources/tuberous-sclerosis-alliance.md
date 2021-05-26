@@ -9,7 +9,7 @@ name: Tuberous Sclerosis Alliance
 website: http://www.tsalliance.org/
 
 # Short summary of the resource
-summary: The Tuberous Sclerosis Alliance (TS Alliance) is a national organization dedicated to finding a cure for tuberous sclerosis while improving the lives of those affected.
+summary: The Tuberous Sclerosis Alliance (TSC Alliance) is a national organization dedicated to finding a cure for tuberous sclerosis while improving the lives of those affected.
 
 # What order
 sort: 1

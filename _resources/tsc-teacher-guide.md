@@ -9,7 +9,7 @@ name: Teacher's Guide to Educating a Child with Tuberous Sclerosis Complex
 website: http://www.tsalliance.org/documents/Teacher%20Guide%20to%20TSC.pdf
 
 # Short summary of the resource
-summary: Created by the TS Alliance to inform teachers about the educational needs of individuals with tuberous sclerosis.
+summary: Created by the TSC Alliance to inform teachers about the educational needs of individuals with tuberous sclerosis.
 
 # What order
 sort: 1

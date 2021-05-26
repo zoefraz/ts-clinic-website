@@ -9,7 +9,7 @@ name: Online Discussion Groups
 website: http://www.tsalliance.org/pages.aspx?content=299
 
 # Short summary of the resource
-summary: Discussion groups offered by the TS Alliance for individuals and family members affected by tuberous sclerosis.
+summary: Discussion groups offered by the TSC Alliance for individuals and family members affected by tuberous sclerosis.
 
 # What order
 sort: 1
